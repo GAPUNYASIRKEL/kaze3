@@ -3,7 +3,7 @@ module.exports = {
     ownerID: ["804957803529109505"], //write your discord user id. example: ["id"] or ["id1","id2"]
     botInvite: "", //write your discord bot invite.
     supportServer: "", //write your discord bot support server invite.
-    mongodbURL: "mongodb+srv://nyobainturky1: nyobainturky1@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
+    mongodbURL: mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority", //write your mongodb url.
     status: 'Kazexxzz',
     commandsDir: './commands', //Please don't touch
     language: "en", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
